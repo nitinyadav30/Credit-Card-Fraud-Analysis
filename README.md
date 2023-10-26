@@ -88,6 +88,7 @@ After training the model, I got below results:
 At last I had saved the model and testedd it by giving a random data.
 
 **🛠 Skills**
+
     1.Python 
     
     2.Machine learning 
