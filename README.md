@@ -86,3 +86,20 @@ After training the model, I got below results:
  	Since almmost all models have the result in pretty same range. Therefore, to select the best model, I am using AUC & ROC concept to find the FPR and TPR using Grapical represntation and selecting the best model which is Gradient Boosting.
 
 At last I had saved the model and testedd it by giving a random data.
+
+**🛠 Skills**
+    1.Python 
+    
+    2.Machine learning 
+    
+    3.Statistics
+    
+    4.Mathematics
+    
+    5.Numpy 
+    
+    6.Pandas
+    
+    7.Matplotlib
+    
+    8.Seaboarn
